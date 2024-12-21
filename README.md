@@ -1,5 +1,5 @@
 Agenda de Contactos.
-Este proyecto es una agenda de contactos simple implementada en Python. Permite agregar, mostrar, actualizar y eliminar contactos.
+Este proyecto es una agenda de contactos implementada en Python. Permite agregar, mostrar, actualizar y eliminar contactos.
 
 Características:
 
